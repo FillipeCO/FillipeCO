@@ -20,13 +20,11 @@
 </p>
     
 
-<p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fillipeco&" alt="fillipeco" />
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=fillipeco&show_icons=true&locale=en" alt="fillipeco" />
-<p/>
+</p>
 
 
-
-
-
-
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fillipeco&" alt="fillipeco" />
+    </p>
