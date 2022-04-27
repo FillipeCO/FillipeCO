@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Fillipe</h1>
-<h3 align="center">Desenvolvedor Full Stack com olhar aguçado para a experiência do usuário, com bastante experiência em HTML, CSS, Javascript, React, Node, Typescript, Mysql e AWS.</h3>
+![MasterHead](https://i.ibb.co/NFn1LKD/HEADER.png)
+
+<h4 align="center"><i>"Without requirements or design, programming is the art of adding bugs to an empty text file."</i></h4>
+<h3 align="center">Full Stack developer with a keen eye for user experience, with a lot of experience in HTML, CSS, Javascript, React, Typescript, NodeJs and MySql.
+</h3>
 
 - 🔭 I’m currently working on **backend and BaaS projects**
 
