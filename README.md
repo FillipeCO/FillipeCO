@@ -1,4 +1,3 @@
-![MasterHead](https://i.ibb.co/NFn1LKD/HEADER.png)
 
 <h4 align="center"><i>"Without requirements or design, programming is the art of adding bugs to an empty text file."</i></h4>
 <h3 align="center">Full Stack developer with a keen eye for user experience, with a lot of experience in HTML, CSS, Javascript, React, Typescript, NodeJs and MySql.
