@@ -3,9 +3,9 @@
 <h3 align="center">Full Stack developer with a keen eye for user experience, with a lot of experience in HTML, CSS, Javascript, React, Typescript, NodeJs and MySql.
 </h3>
 
-- 🔭 I’m currently working on **backend and BaaS projects**
+- 🔭 I’m currently working on **Gamemaker and Unity game projects**
 
-- 🌱 I’m currently learning **Firebase and AWS.**
+- 🌱 I’m currently learning **GML and C#.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
