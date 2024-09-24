@@ -1,6 +1,6 @@
 
 <h4 align="center"><i>"Without requirements or design, programming is the art of adding bugs to an empty text file."</i></h4>
-<h3 align="center">Full Stack developer with a keen eye for user experience, with a lot of experience in HTML, CSS, Javascript, React, Typescript, NodeJs and MySql.
+<h3 align="center">Full Stack web developer and Game Designer.
 </h3>
 
 - 🔭 I’m currently working on **Gamemaker and Unity game projects**
